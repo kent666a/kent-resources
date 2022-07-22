@@ -130,6 +130,7 @@
 - [jobbole/awesome-python-cn: Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。](https://github.com/jobbole/awesome-python-cn)
 - [Scrapy | A Fast and Powerful Scraping and Web Crawling Framework](https://scrapy.org/)
 - [The Python Tutorial — Python 3.6.3 documentation](https://docs.python.org/3/tutorial/index.html)
+- [Python Tutorial for Beginners - Scaler Topics](https://www.scaler.com/topics/python)
 
 <h4 id=history>history</h4>
 
